@@ -1,0 +1,9 @@
+[package]
+name = "invaders"
+version = "0.1.0"
+authors = ["Danila Mihailov <danilamihailov@icloud.com>"]
+edition = "2018"
+
+[dependencies]
+ggez = "0.5"
+rand = "0.7.3"
